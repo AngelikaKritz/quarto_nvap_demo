@@ -6,9 +6,7 @@ title: Template Page
 #### Learning Objectives
 
 - Bulleted list of learning objectives
-- AK TEST NEW!
-ak another test!
-yet another test
+- Banana- hannah
 :::
 
 
